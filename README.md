@@ -154,6 +154,12 @@ This ensures your DNS zones stay up-to-date with the latest blockchain state.
 
 ---
 
+## Related repos:
+
+- [smh-dns-plugin](https://github.com/elamirch/smh-dns-plugin)  
+- [smh-domains-website](https://github.com/elamirch/smh-domains-website)
+
+
 ## 🧪 Testing
 
 Use the sample DNS server to test `.smh` domain resolution:
